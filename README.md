@@ -8,7 +8,7 @@
 
  [Kaggle lnik](https://www.kaggle.com/code/kadirallolu/f1-analysis)
 
-## "Road to the Championship in Formula 1: Speed ​​or Strategy?"
+## Road to the Championship in Formula 1: Speed ​​or Strategy?
  Formula 1 is one of the world's most exciting and competitive motorsport, where speed, strategy, engineering and human talent come together. So what separates an F1 champion from the rest? Speed ​​during pit stops or mastery of strategy? Is it just the speed of the vehicle or the intelligence and decision-making ability of a pilot that is more important?
 
  This project aims to conduct an in-depth analysis of F1 champions to understand their performance and race strategies. We will examine how pit stop times, race order, speed and even the driver's personal experiences affect the path of a champion. "What do the best do to be the best?" Answering the question is one of the most fundamental and interesting questions of this sport.
