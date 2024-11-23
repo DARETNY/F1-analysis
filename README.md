@@ -30,8 +30,8 @@
 
 ## **Overview of the Top 10 Drivers by Points:**
     [gorsel ekle point gorseli]
-#-
-This chart displays the top 10 drivers with the highest total points in Formula 1 history. Drivers like **Lewis Hamilton**, **Sebastian Vettel**, and **Max Verstappen** are at the forefront, consistently occupying top positions in the championship standings.
+
+ This chart displays the top 10 drivers with the highest total points in Formula 1 history. Drivers like **Lewis Hamilton**, **Sebastian Vettel**, and **Max Verstappen** are at the forefront, consistently occupying top positions in the championship standings.
 
 **Insights from the Chart:**
 1. **Lewis Hamilton** leads with over 50,000 points, showcasing his consistent top-tier performances and dominance over the years, aided by competitive cars.
