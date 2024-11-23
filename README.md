@@ -174,5 +174,5 @@ driverName | constructorName | win_count
 
  This analysis has provided insights into the complex interplay between these elements, showing that while speed may be important, it is often the strategy, teamwork, and execution that lead to championship victories.
 
-![image](https://github.com/user-attachments/assets/beb3e58e-090a-4441-b8e2-feb8fbb58598)
+![image](https://github.com/user-attachments/assets/3a88922b-069a-4c28-87cd-151f3a39f374)
 
