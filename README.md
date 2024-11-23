@@ -1,5 +1,6 @@
 
 # F1 Analysis
+![image](https://github.com/user-attachments/assets/c9aee1f2-f550-4e2f-b952-ab5952ef6b5e)
 
 
 ## Links
@@ -172,3 +173,6 @@ driverName | constructorName | win_count
  Formula 1 success is a combination of factors—**constructor strength**, **driver skill**, **team strategy**, and **pit stop efficiency**. While the constructor's performance is critical, the driver’s ability to adapt, make quick decisions, and execute strategies effectively is equally important. The best drivers and teams are those that can balance these elements, showcasing why Formula 1 is a sport that requires both speed and strategy to reach the pinnacle of success.
 
  This analysis has provided insights into the complex interplay between these elements, showing that while speed may be important, it is often the strategy, teamwork, and execution that lead to championship victories.
+
+![image](https://github.com/user-attachments/assets/beb3e58e-090a-4441-b8e2-feb8fbb58598)
+
