@@ -113,8 +113,7 @@ driverName | constructorName | win_count
 ### Conclusion:
  While the constructor plays a significant role in a driver’s success—providing a competitive car and strong technical support—the driver’s individual skill, experience, adaptability, and team dynamics are equally essential. Therefore, **constructors are key**, but they are **not the only factor** in winning races and championships. The best drivers are often those who can perform well regardless of their constructor, extracting the maximum performance from the car they are given.
 
- ![image](F1-analysis png/Ekran Resmi 2026-01-15 17.48.46.png)
-
+![image](https://github.com/DARETNY/F1-analysis/blob/main/F1-analysis%20png/Ekran%20Resmi%202026-01-15%2017.48.46.png)
 
 # The Role of Pit Stops in Formula 1 Success
  
